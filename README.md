@@ -1,5 +1,5 @@
 # CFTR_JupyterNotebooks
-Interactive illustrative examples of using *CharFunToolR* - R repository of characteristic functions and tools for their combinations and numerical inversion. 
+Interactive illustrative examples of using [*CharFunToolR*](https://github.com/gajdosandrej/CharFunToolR) - R repository of characteristic functions and tools for their combinations and numerical inversion. 
 
 
 Interactive preview: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gajdosandrej/CFTR_JupyterNotebooks/HEAD)  
