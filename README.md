@@ -4,4 +4,4 @@ Interactive illustrative examples of using CharFunToolR - R repository of charac
 
 Interactive preview: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gajdosandrej/CFTR_JupyterNotebooks.git/HEAD) 
 
-Static preview: [![nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/gajdosandrej/CFTR_JupyterNotebooks/blob/main/index_CFTR?flush_cache=true)
+Static preview: [![nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/gajdosandrej/CFTR_JupyterNotebooks/blob/main/index_CFTR.ipynb)flush_cache=true)
